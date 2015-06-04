@@ -1,0 +1,23 @@
+{
+  "name": "polydocs-io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zacharytamas/polydocs-io",
+  "authors": [
+    "Zachary Jones <zacharytamas@gmail.com>"
+  ],
+  "description": "Free and open documentation of any public Polymer element.",
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.2"
+  }
+}
